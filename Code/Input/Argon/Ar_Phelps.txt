@@ -145,10 +145,10 @@ COLUMNS: Energy (eV) | Cross section (m2)
 -----------------------------
 
 EXCITATION
-Ar -> Ar*
+Ar -> Ar(eff)
  1.150000e+1
 SPECIES: e / Ar
-PROCESS: E + Ar -> E + Ar*, Excitation
+PROCESS: E + Ar -> E + Ar(eff), Excitation
 PARAM.:  E = 11.5 eV, complete set
 COMMENT: [Ar(1S0) + e -> Ar(eff) + e, Excitation]
 COMMENT: TOTAL Excitation LOW E SCHAPERT-SCHEIBNER, HI E UNKNOWN.
@@ -195,8 +195,8 @@ Ar -> Ar+
 SPECIES: e / Ar
 PROCESS: E + Ar -> E + E + Ar+, Ionization
 PARAM.:  E = 15.8 eV, complete set
-COMMENT: Ionization - RAPP-SCHRAM.
 COMMENT: [Ar(1S0) + e -> Ar(+,gnd) + e + e, Ionization]
+COMMENT: Ionization - RAPP-SCHRAM.
 UPDATED: 2010-10-01 07:49:50
 COLUMNS: Energy (eV) | Cross section (m2)
 -----------------------------
