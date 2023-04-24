@@ -25,7 +25,7 @@ electronKinetics:
   growthModelType: temporal            % temporal or spatial
   includeEECollisions: false           % true or false (to include / remove e-e collisions)
   LXCatFiles:                          % cross section files
-    - Argon/Ar_LXCat.txt
+    - Argon/Ar_Phelps.txt
   gasProperties:                       % properties of the gases (S.I. Units)
     mass: Databases/masses.txt
     fraction:
@@ -68,7 +68,7 @@ gui:
 % ---  configuration of the output files ---
 output: 
   isOn: true
-  folder: ArSwarm_300K
+  folder: ArLumped
   dataFiles:
 %     - inputs
     - log
