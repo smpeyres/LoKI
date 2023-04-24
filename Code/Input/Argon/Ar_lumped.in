@@ -25,7 +25,7 @@ electronKinetics:
   growthModelType: temporal            % temporal or spatial
   includeEECollisions: false           % true or false (to include / remove e-e collisions)
   LXCatFiles:                          % cross section files
-    - Argon/Ar_Phelps.txt
+    - Argon/Ar_Morgan.txt
   gasProperties:                       % properties of the gases (S.I. Units)
     mass: Databases/masses.txt
     fraction:
