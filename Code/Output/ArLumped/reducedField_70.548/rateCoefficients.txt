@@ -3,7 +3,6 @@
 **************************************
 
 ID   Ine.R.Coeff.(m^3s^-1) Sup.R.Coeff.(m^3s^-1) Threshold(eV)         Description
-   1 1.48044636912711e-13  (N/A)                 0.00000000000000e+00  e+Ar(1S0)->e+Ar(1S0),Effective
-   2 3.04636061381623e-16  (N/A)                 1.15000000000000e+01  e+Ar(1S0)->e+Ar(eff),Excitation
-   3 2.55967140713243e-17  (N/A)                 1.58000000000000e+01  e+Ar(1S0)->e+e+Ar(+,gnd),Ionization
-   4 1.47664776604179e-13  (N/A)                 0.00000000000000e+00  e+Ar(1S0)->e+Ar(1S0),Elastic
+   1 1.48121969440937e-13  (N/A)                 0.00000000000000e+00  e+Ar(1S0)->e+Ar(1S0),Elastic
+   2 3.04193904716193e-16  (N/A)                 1.15000000000000e+01  e+Ar(1S0)->e+Ar(eff),Excitation
+   3 2.46216912578344e-17  (N/A)                 1.58000000000000e+01  e+Ar(1S0)->e+e+Ar(+,gnd),Ionization

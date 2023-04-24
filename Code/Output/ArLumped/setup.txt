@@ -17,7 +17,7 @@ electronKinetics:
   growthModelType: temporal            
   includeEECollisions: false           
   LXCatFiles:                          
-    - Argon/Ar_Phelps.txt
+    - Argon/Ar_Morgan.txt
   gasProperties:                       
     mass: Databases/masses.txt
     fraction:
