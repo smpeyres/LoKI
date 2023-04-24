@@ -65,13 +65,13 @@ COMMENT2: Slightly modified from original by S. M. Peyres, April 2022.
 
 ********************************************************** Ar **********************************************************
 
-EFFECTIVE
+ELASTIC
 Ar
  1.360000e-5
 SPECIES: e / Ar
-PROCESS: E + Ar -> E + Ar, Effective
+PROCESS: E + Ar -> E + Ar, Elastic
 PARAM.:  m/M = 0.0000136, complete set
-COMMENT: [Ar(1S0) + e -> Ar(1S0) + e, Effective]
+COMMENT: [Ar(1S0) + e -> Ar(1S0) + e, Elastic]
 COMMENT: EFFECTIVE Momentum transfer CROSS SECTION.
 UPDATED: 2011-06-06 11:19:56
 COLUMNS: Energy (eV) | Cross section (m2)

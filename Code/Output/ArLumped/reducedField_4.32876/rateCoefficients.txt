@@ -1,0 +1,8 @@
+**************************************
+*    e-Kinetics Rate Coefficients    *
+**************************************
+
+ID   Ine.R.Coeff.(m^3s^-1) Sup.R.Coeff.(m^3s^-1) Threshold(eV)         Description
+   1 9.66326178584008e-14  (N/A)                 0.00000000000000e+00  e+Ar(1S0)->e+Ar(1S0),Elastic
+   2 2.36806059031009e-19  (N/A)                 1.15000000000000e+01  e+Ar(1S0)->e+Ar(eff),Excitation
+   3 7.88177546736719e-32  (N/A)                 1.58000000000000e+01  e+Ar(1S0)->e+e+Ar(+,gnd),Ionization
