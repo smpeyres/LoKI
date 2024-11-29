@@ -13,8 +13,8 @@
                Attachment collisions = +0.00000000000000e+00 (eVm^3s^-1)
              Electron density growth = +0.00000000000000e+00 (eVm^3s^-1) +
  -------------------------------------------------------------------------
-                       Power Balance = +4.05310452163525e-35 (eVm^3s^-1)
-              Relative Power Balance =  1.94123295462908e-12%
+                       Power Balance = +4.06015748774018e-35 (eVm^3s^-1)
+              Relative Power Balance =  1.94461097021138e-12%
 
            Elastic collisions (gain) = +1.90090663428892e-21 (eVm^3s^-1)
            Elastic collisions (loss) = -2.08790218194581e-21 (eVm^3s^-1) +

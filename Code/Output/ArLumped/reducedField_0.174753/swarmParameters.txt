@@ -6,6 +6,6 @@
        Reduced attachment coefficient = 0.00000000000000e+00 (m^2)
  Reduced energy diffusion coefficient = 1.56394128484234e+25 (eV(ms)^-1)
               Reduced energy mobility = 1.69752292954376e+25 (eV(msV)^-1)
-                          Mean energy = 1.03093841528319e+00 (eV)
+                          Mean energy = 1.03093841528320e+00 (eV)
                 Characteristic energy = 1.89359598168135e+00 (eV)
                  Electron temperature = 6.87292276855463e-01 (eV)

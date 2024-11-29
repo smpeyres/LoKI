@@ -1,35 +1,35 @@
-                               Field = +1.13161777063716e-15 (eVm^3s^-1)
-           Elastic collisions (gain) = +2.63360683543678e-19 (eVm^3s^-1)
-           Elastic collisions (loss) = -3.02832102083271e-17 (eVm^3s^-1)
+                               Field = +1.12126316716256e-15 (eVm^3s^-1)
+           Elastic collisions (gain) = +2.74717455243157e-19 (eVm^3s^-1)
+           Elastic collisions (loss) = -3.03211114988155e-17 (eVm^3s^-1)
                           CAR (gain) = +0.00000000000000e+00 (eVm^3s^-1)
                           CAR (loss) = +0.00000000000000e+00 (eVm^3s^-1)
-     Excitation inelastic collisions = -1.07524802145163e-15 (eVm^3s^-1)
+     Excitation inelastic collisions = -1.07847650740681e-15 (eVm^3s^-1)
   Excitation superelastic collisions = +0.00000000000000e+00 (eVm^3s^-1)
     Vibrational inelastic collisions = +0.00000000000000e+00 (eVm^3s^-1)
  Vibrational superelastic collisions = +0.00000000000000e+00 (eVm^3s^-1)
      Rotational inelastic collisions = +0.00000000000000e+00 (eVm^3s^-1)
   Rotational superelastic collisions = +0.00000000000000e+00 (eVm^3s^-1)
-               Ionization collisions = -1.91093774916322e-17 (eVm^3s^-1)
+               Ionization collisions = -9.29444376541320e-18 (eVm^3s^-1)
                Attachment collisions = +0.00000000000000e+00 (eVm^3s^-1)
-             Electron density growth = -7.24052216877586e-18 (eVm^3s^-1) +
+             Electron density growth = -3.44582194669222e-18 (eVm^3s^-1) +
  -------------------------------------------------------------------------
-                       Power Balance = +3.44912482624377e-28 (eVm^3s^-1)
-              Relative Power Balance =  3.04725004313769e-11%
+                       Power Balance = +7.25725069784109e-29 (eVm^3s^-1)
+              Relative Power Balance =  6.47080299058664e-12%
 
-           Elastic collisions (gain) = +2.63360683543678e-19 (eVm^3s^-1)
-           Elastic collisions (loss) = -3.02832102083271e-17 (eVm^3s^-1) +
+           Elastic collisions (gain) = +2.74717455243157e-19 (eVm^3s^-1)
+           Elastic collisions (loss) = -3.03211114988155e-17 (eVm^3s^-1) +
  -------------------------------------------------------------------------
-            Elastic collisions (net) = -3.00198495247834e-17 (eVm^3s^-1)
+            Elastic collisions (net) = -3.00463940435724e-17 (eVm^3s^-1)
 
                           CAR (gain) = +0.00000000000000e+00 (eVm^3s^-1)
                           CAR (gain) = +0.00000000000000e+00 (eVm^3s^-1) +
  -------------------------------------------------------------------------
                            CAR (net) = +0.00000000000000e+00 (eVm^3s^-1)
 
-     Excitation inelastic collisions = -1.07524802145163e-15 (eVm^3s^-1)
+     Excitation inelastic collisions = -1.07847650740681e-15 (eVm^3s^-1)
   Excitation superelastic collisions = +0.00000000000000e+00 (eVm^3s^-1) +
  -------------------------------------------------------------------------
-         Excitation collisions (net) = -1.07524802145163e-15 (eVm^3s^-1)
+         Excitation collisions (net) = -1.07847650740681e-15 (eVm^3s^-1)
 
     Vibrational inelastic collisions = +0.00000000000000e+00 (eVm^3s^-1)
  Vibrational superelastic collisions = +0.00000000000000e+00 (eVm^3s^-1) +
@@ -43,10 +43,10 @@
 
 ************************************* Ar *************************************
 
-     Excitation inelastic collisions = -1.07524802145163e-15 (eVm^3s^-1)
+     Excitation inelastic collisions = -1.07847650740681e-15 (eVm^3s^-1)
   Excitation superelastic collisions = +0.00000000000000e+00 (eVm^3s^-1) +
  -------------------------------------------------------------------------
-         Excitation collisions (net) = -1.07524802145163e-15 (eVm^3s^-1)
+         Excitation collisions (net) = -1.07847650740681e-15 (eVm^3s^-1)
 
     Vibrational inelastic collisions = +0.00000000000000e+00 (eVm^3s^-1)
  Vibrational superelastic collisions = +0.00000000000000e+00 (eVm^3s^-1) +
@@ -58,5 +58,5 @@
  -------------------------------------------------------------------------
          Rotational collisions (net) = +0.00000000000000e+00 (eVm^3s^-1)
 
-               Ionization collisions = -1.91093774916322e-17 (eVm^3s^-1)
+               Ionization collisions = -9.29444376541320e-18 (eVm^3s^-1)
                Attachment collisions = +0.00000000000000e+00 (eVm^3s^-1)

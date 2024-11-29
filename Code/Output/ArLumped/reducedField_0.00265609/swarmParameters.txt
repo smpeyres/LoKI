@@ -5,7 +5,7 @@
          Reduced Townsend coefficient = 0.00000000000000e+00 (m^2)
        Reduced attachment coefficient = 0.00000000000000e+00 (m^2)
  Reduced energy diffusion coefficient = 5.84150872930658e+24 (eV(ms)^-1)
-              Reduced energy mobility = 3.98551812377505e+25 (eV(msV)^-1)
+              Reduced energy mobility = 3.98551812377506e+25 (eV(msV)^-1)
                           Mean energy = 1.11698686719005e-01 (eV)
                 Characteristic energy = 1.38409686760153e-01 (eV)
                  Electron temperature = 7.44657911460033e-02 (eV)

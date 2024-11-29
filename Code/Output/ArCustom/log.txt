@@ -1,0 +1,1230 @@
+******************************************************************************
+*     __    _      __    ____           __ __ ____           __  _           *
+*    / /   (_)____/ /_  / __ \____     / //_//  _/___  ___  / /_(_)_________ *
+*   / /   / / ___/ __ \/ / / / __ \   / ,<   / // __ \/ _ \/ __/ / ___/ ___/ *
+*  / /___/ (__  ) /_/ / /_/ / / / /  / /| |_/ // / / /  __/ /_/ / /__(__  )  *
+* /_____/_/____/_.___/\____/_/ /_/  /_/ |_/___/_/ /_/\___/\__/_/\___/____/   *
+*                                                                            *
+*               _        _  _____    ___       ___   ___   __                *
+*              | |   ___| |/ /_ _|__| _ ) __ _|_  ) |_  ) /  \               *
+*              | |__/ _ \ ' < | |___| _ \ \ V // / _ / / | () |              *
+*              |____\___/_|\_\___|  |___/  \_//___(_)___(_)__/               *
+*                                                                            *
+******************************************************************************
+Parsing setup file ...
+  Finished (0.169646 seconds).
+Performing selfdiagnostic of the setup file ...
+  Finished (0.002060 seconds).
+Initializing simulation:
+	- Setting up electron kinetics ...
+	    Finished (0.100634 seconds).
+	- Setting up other components ...
+	    Finished (0.001179 seconds).
+	- Configuring CLI ...
+	    Finished (0.002625 seconds).
+	- Setting up GUI ...
+	    Finished (1.100812 seconds).
+	- Setting up Output ...
+	    Finished (0.017264 seconds).
+  Finished (1.274544 seconds).
+Starting calculations: ...
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.544488 eV).
+	    Finished (1.200546 seconds).
+	- Updated reduced field (0.102337 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.550304 eV).
+	    Finished (0.233123 seconds).
+	- Updated reduced field (0.104729 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.556197 eV).
+	    Finished (0.216050 seconds).
+	- Updated reduced field (0.107177 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.562167 eV).
+	    Finished (0.197992 seconds).
+	- Updated reduced field (0.109682 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.568216 eV).
+	    Finished (0.242495 seconds).
+	- Updated reduced field (0.112245 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.574343 eV).
+	    Finished (0.231285 seconds).
+	- Updated reduced field (0.114868 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.58055 eV).
+	    Finished (0.193454 seconds).
+	- Updated reduced field (0.117553 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.586838 eV).
+	    Finished (0.192710 seconds).
+	- Updated reduced field (0.120301 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.593207 eV).
+	    Finished (0.205390 seconds).
+	- Updated reduced field (0.123112 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.599658 eV).
+	    Finished (0.203617 seconds).
+	- Updated reduced field (0.12599 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.606191 eV).
+	    Finished (0.203264 seconds).
+	- Updated reduced field (0.128934 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.612807 eV).
+	    Finished (0.206372 seconds).
+	- Updated reduced field (0.131948 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.619506 eV).
+	    Finished (0.230854 seconds).
+	- Updated reduced field (0.135031 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.62629 eV).
+	    Finished (0.228354 seconds).
+	- Updated reduced field (0.138187 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.633157 eV).
+	    Finished (0.274659 seconds).
+	- Updated reduced field (0.141417 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.640112 eV).
+	    Finished (0.254917 seconds).
+	- Updated reduced field (0.144722 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.647153 eV).
+	    Finished (0.221477 seconds).
+	- Updated reduced field (0.148105 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.65428 eV).
+	    Finished (0.227587 seconds).
+	- Updated reduced field (0.151566 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.661496 eV).
+	    Finished (0.243779 seconds).
+	- Updated reduced field (0.155108 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.668799 eV).
+	    Finished (0.260102 seconds).
+	- Updated reduced field (0.158734 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.676191 eV).
+	    Finished (0.238503 seconds).
+	- Updated reduced field (0.162444 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.683671 eV).
+	    Finished (0.272551 seconds).
+	- Updated reduced field (0.16624 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.691244 eV).
+	    Finished (0.254592 seconds).
+	- Updated reduced field (0.170125 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.698907 eV).
+	    Finished (0.258295 seconds).
+	- Updated reduced field (0.174102 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.706661 eV).
+	    Finished (0.257726 seconds).
+	- Updated reduced field (0.178171 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.714508 eV).
+	    Finished (0.261968 seconds).
+	- Updated reduced field (0.182335 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.722448 eV).
+	    Finished (0.257576 seconds).
+	- Updated reduced field (0.186596 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.730482 eV).
+	    Finished (0.253138 seconds).
+	- Updated reduced field (0.190957 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.738611 eV).
+	    Finished (0.272972 seconds).
+	- Updated reduced field (0.19542 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.746833 eV).
+	    Finished (0.302443 seconds).
+	- Updated reduced field (0.199988 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.755153 eV).
+	    Finished (0.257397 seconds).
+	- Updated reduced field (0.204662 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.763571 eV).
+	    Finished (0.260767 seconds).
+	- Updated reduced field (0.209445 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.772086 eV).
+	    Finished (0.261805 seconds).
+	- Updated reduced field (0.21434 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.780701 eV).
+	    Finished (0.264220 seconds).
+	- Updated reduced field (0.21935 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.789415 eV).
+	    Finished (0.299990 seconds).
+	- Updated reduced field (0.224476 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.79823 eV).
+	    Finished (0.320066 seconds).
+	- Updated reduced field (0.229723 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.807146 eV).
+	    Finished (0.407961 seconds).
+	- Updated reduced field (0.235092 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.816166 eV).
+	    Finished (0.287826 seconds).
+	- Updated reduced field (0.240586 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.825291 eV).
+	    Finished (0.290644 seconds).
+	- Updated reduced field (0.246209 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.83452 eV).
+	    Finished (0.286077 seconds).
+	- Updated reduced field (0.251964 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.843857 eV).
+	    Finished (0.301695 seconds).
+	- Updated reduced field (0.257852 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.853301 eV).
+	    Finished (0.363855 seconds).
+	- Updated reduced field (0.263879 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.862855 eV).
+	    Finished (0.301957 seconds).
+	- Updated reduced field (0.270046 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.872517 eV).
+	    Finished (0.344397 seconds).
+	- Updated reduced field (0.276358 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.882293 eV).
+	    Finished (0.326858 seconds).
+	- Updated reduced field (0.282817 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.892182 eV).
+	    Finished (0.319120 seconds).
+	- Updated reduced field (0.289427 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.902186 eV).
+	    Finished (0.320295 seconds).
+	- Updated reduced field (0.296191 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.912306 eV).
+	    Finished (0.319509 seconds).
+	- Updated reduced field (0.303114 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.922544 eV).
+	    Finished (0.330765 seconds).
+	- Updated reduced field (0.310198 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.932899 eV).
+	    Finished (0.408672 seconds).
+	- Updated reduced field (0.317448 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.943377 eV).
+	    Finished (0.372505 seconds).
+	- Updated reduced field (0.324867 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.953978 eV).
+	    Finished (0.362461 seconds).
+	- Updated reduced field (0.33246 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.964703 eV).
+	    Finished (0.375746 seconds).
+	- Updated reduced field (0.34023 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.975553 eV).
+	    Finished (0.391229 seconds).
+	- Updated reduced field (0.348182 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.986531 eV).
+	    Finished (0.381375 seconds).
+	- Updated reduced field (0.356319 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (0.997639 eV).
+	    Finished (0.394107 seconds).
+	- Updated reduced field (0.364647 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.00887 eV).
+	    Finished (0.408496 seconds).
+	- Updated reduced field (0.37317 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.02025 eV).
+	    Finished (0.365327 seconds).
+	- Updated reduced field (0.381891 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.03175 eV).
+	    Finished (0.365139 seconds).
+	- Updated reduced field (0.390817 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.04339 eV).
+	    Finished (0.426459 seconds).
+	- Updated reduced field (0.399951 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.05517 eV).
+	    Finished (0.409010 seconds).
+	- Updated reduced field (0.409298 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.06709 eV).
+	    Finished (0.431803 seconds).
+	- Updated reduced field (0.418865 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.07914 eV).
+	    Finished (0.454991 seconds).
+	- Updated reduced field (0.428654 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.09134 eV).
+	    Finished (0.383392 seconds).
+	- Updated reduced field (0.438673 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.10369 eV).
+	    Finished (0.419004 seconds).
+	- Updated reduced field (0.448925 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.11618 eV).
+	    Finished (0.430562 seconds).
+	- Updated reduced field (0.459417 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.12882 eV).
+	    Finished (0.443421 seconds).
+	- Updated reduced field (0.470155 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.1416 eV).
+	    Finished (0.420060 seconds).
+	- Updated reduced field (0.481143 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.15454 eV).
+	    Finished (0.404971 seconds).
+	- Updated reduced field (0.492388 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.16762 eV).
+	    Finished (0.448227 seconds).
+	- Updated reduced field (0.503896 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.18086 eV).
+	    Finished (0.409547 seconds).
+	- Updated reduced field (0.515673 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.19425 eV).
+	    Finished (0.407405 seconds).
+	- Updated reduced field (0.527725 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.2078 eV).
+	    Finished (0.412202 seconds).
+	- Updated reduced field (0.540059 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.2215 eV).
+	    Finished (0.471034 seconds).
+	- Updated reduced field (0.552681 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.23536 eV).
+	    Finished (0.578192 seconds).
+	- Updated reduced field (0.565599 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.24938 eV).
+	    Finished (0.569644 seconds).
+	- Updated reduced field (0.578818 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.26356 eV).
+	    Finished (0.490958 seconds).
+	- Updated reduced field (0.592346 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.2779 eV).
+	    Finished (0.432740 seconds).
+	- Updated reduced field (0.60619 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.29239 eV).
+	    Finished (0.433810 seconds).
+	- Updated reduced field (0.620358 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.30705 eV).
+	    Finished (0.533870 seconds).
+	- Updated reduced field (0.634857 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.32188 eV).
+	    Finished (0.471051 seconds).
+	- Updated reduced field (0.649694 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.33686 eV).
+	    Finished (0.538754 seconds).
+	- Updated reduced field (0.664879 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.35201 eV).
+	    Finished (0.479545 seconds).
+	- Updated reduced field (0.680418 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.36733 eV).
+	    Finished (0.530588 seconds).
+	- Updated reduced field (0.696321 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.38281 eV).
+	    Finished (0.503221 seconds).
+	- Updated reduced field (0.712595 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.39845 eV).
+	    Finished (0.522595 seconds).
+	- Updated reduced field (0.72925 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.41427 eV).
+	    Finished (0.505091 seconds).
+	- Updated reduced field (0.746294 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.43024 eV).
+	    Finished (0.534342 seconds).
+	- Updated reduced field (0.763736 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.44639 eV).
+	    Finished (0.495940 seconds).
+	- Updated reduced field (0.781586 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.46271 eV).
+	    Finished (0.491456 seconds).
+	- Updated reduced field (0.799853 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.4792 eV).
+	    Finished (0.481442 seconds).
+	- Updated reduced field (0.818547 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.49586 eV).
+	    Finished (0.517622 seconds).
+	- Updated reduced field (0.837678 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.51269 eV).
+	    Finished (0.554615 seconds).
+	- Updated reduced field (0.857256 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.5297 eV).
+	    Finished (0.497490 seconds).
+	- Updated reduced field (0.877291 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.54688 eV).
+	    Finished (0.509508 seconds).
+	- Updated reduced field (0.897795 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.56424 eV).
+	    Finished (0.502881 seconds).
+	- Updated reduced field (0.918778 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.58177 eV).
+	    Finished (0.508202 seconds).
+	- Updated reduced field (0.940252 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.59948 eV).
+	    Finished (0.533344 seconds).
+	- Updated reduced field (0.962227 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.61737 eV).
+	    Finished (0.526880 seconds).
+	- Updated reduced field (0.984716 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.63544 eV).
+	    Finished (0.556024 seconds).
+	- Updated reduced field (1.00773 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.65369 eV).
+	    Finished (0.661748 seconds).
+	- Updated reduced field (1.03128 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.67213 eV).
+	    Finished (0.557016 seconds).
+	- Updated reduced field (1.05539 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.69075 eV).
+	    Finished (0.543647 seconds).
+	- Updated reduced field (1.08005 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.70956 eV).
+	    Finished (0.535474 seconds).
+	- Updated reduced field (1.1053 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.72856 eV).
+	    Finished (0.532307 seconds).
+	- Updated reduced field (1.13113 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.74775 eV).
+	    Finished (0.618122 seconds).
+	- Updated reduced field (1.15756 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.76713 eV).
+	    Finished (0.614645 seconds).
+	- Updated reduced field (1.18462 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.7867 eV).
+	    Finished (0.592896 seconds).
+	- Updated reduced field (1.21231 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.80647 eV).
+	    Finished (0.640492 seconds).
+	- Updated reduced field (1.24064 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.82644 eV).
+	    Finished (0.606644 seconds).
+	- Updated reduced field (1.26964 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.84661 eV).
+	    Finished (0.578163 seconds).
+	- Updated reduced field (1.29931 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.86699 eV).
+	    Finished (0.556188 seconds).
+	- Updated reduced field (1.32968 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.88756 eV).
+	    Finished (0.602577 seconds).
+	- Updated reduced field (1.36075 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.90835 eV).
+	    Finished (0.683033 seconds).
+	- Updated reduced field (1.39256 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.92934 eV).
+	    Finished (0.591926 seconds).
+	- Updated reduced field (1.4251 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.95054 eV).
+	    Finished (0.577445 seconds).
+	- Updated reduced field (1.45841 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.97196 eV).
+	    Finished (0.575463 seconds).
+	- Updated reduced field (1.4925 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (1.99359 eV).
+	    Finished (0.602406 seconds).
+	- Updated reduced field (1.52738 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.01543 eV).
+	    Finished (0.600974 seconds).
+	- Updated reduced field (1.56308 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.03749 eV).
+	    Finished (0.632300 seconds).
+	- Updated reduced field (1.59961 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.05977 eV).
+	    Finished (0.611583 seconds).
+	- Updated reduced field (1.63699 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.08228 eV).
+	    Finished (0.634855 seconds).
+	- Updated reduced field (1.67525 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.105 eV).
+	    Finished (0.691228 seconds).
+	- Updated reduced field (1.71441 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.12795 eV).
+	    Finished (0.636777 seconds).
+	- Updated reduced field (1.75447 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.15113 eV).
+	    Finished (0.633814 seconds).
+	- Updated reduced field (1.79548 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.17453 eV).
+	    Finished (0.625810 seconds).
+	- Updated reduced field (1.83744 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.19817 eV).
+	    Finished (0.645395 seconds).
+	- Updated reduced field (1.88039 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.22203 eV).
+	    Finished (0.763165 seconds).
+	- Updated reduced field (1.92434 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.24612 eV).
+	    Finished (0.646042 seconds).
+	- Updated reduced field (1.96931 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.27045 eV).
+	    Finished (0.680441 seconds).
+	- Updated reduced field (2.01534 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.29501 eV).
+	    Finished (0.688453 seconds).
+	- Updated reduced field (2.06244 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.31981 eV).
+	    Finished (0.715225 seconds).
+	- Updated reduced field (2.11064 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.34485 eV).
+	    Finished (0.709827 seconds).
+	- Updated reduced field (2.15997 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.37013 eV).
+	    Finished (0.661951 seconds).
+	- Updated reduced field (2.21045 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.39565 eV).
+	    Finished (0.651713 seconds).
+	- Updated reduced field (2.26212 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.42141 eV).
+	    Finished (0.707225 seconds).
+	- Updated reduced field (2.31499 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.44741 eV).
+	    Finished (0.699553 seconds).
+	- Updated reduced field (2.36909 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.47366 eV).
+	    Finished (0.675476 seconds).
+	- Updated reduced field (2.42446 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.50015 eV).
+	    Finished (0.729393 seconds).
+	- Updated reduced field (2.48113 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.52689 eV).
+	    Finished (0.724571 seconds).
+	- Updated reduced field (2.53911 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.55387 eV).
+	    Finished (0.734499 seconds).
+	- Updated reduced field (2.59846 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.58109 eV).
+	    Finished (0.688404 seconds).
+	- Updated reduced field (2.65919 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.60854 eV).
+	    Finished (0.705574 seconds).
+	- Updated reduced field (2.72134 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.63622 eV).
+	    Finished (0.712505 seconds).
+	- Updated reduced field (2.78494 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.66412 eV).
+	    Finished (0.724555 seconds).
+	- Updated reduced field (2.85003 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.69222 eV).
+	    Finished (0.722726 seconds).
+	- Updated reduced field (2.91664 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.72051 eV).
+	    Finished (0.734183 seconds).
+	- Updated reduced field (2.98481 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.74895 eV).
+	    Finished (0.725031 seconds).
+	- Updated reduced field (3.05457 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.77753 eV).
+	    Finished (0.842399 seconds).
+	- Updated reduced field (3.12596 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.8062 eV).
+	    Finished (0.773227 seconds).
+	- Updated reduced field (3.19902 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.83492 eV).
+	    Finished (0.764799 seconds).
+	- Updated reduced field (3.27379 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.86365 eV).
+	    Finished (0.792510 seconds).
+	- Updated reduced field (3.3503 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.89232 eV).
+	    Finished (0.787821 seconds).
+	- Updated reduced field (3.4286 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.92088 eV).
+	    Finished (0.789222 seconds).
+	- Updated reduced field (3.50873 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.94925 eV).
+	    Finished (0.839106 seconds).
+	- Updated reduced field (3.59074 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (2.97736 eV).
+	    Finished (0.880768 seconds).
+	- Updated reduced field (3.67466 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.00514 eV).
+	    Finished (0.877563 seconds).
+	- Updated reduced field (3.76055 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.03251 eV).
+	    Finished (0.884191 seconds).
+	- Updated reduced field (3.84844 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.05938 eV).
+	    Finished (0.815330 seconds).
+	- Updated reduced field (3.93838 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.08568 eV).
+	    Finished (0.862441 seconds).
+	- Updated reduced field (4.03043 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.11134 eV).
+	    Finished (0.855474 seconds).
+	- Updated reduced field (4.12463 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.13628 eV).
+	    Finished (0.862837 seconds).
+	- Updated reduced field (4.22103 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.16044 eV).
+	    Finished (0.876179 seconds).
+	- Updated reduced field (4.31968 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.18377 eV).
+	    Finished (0.858654 seconds).
+	- Updated reduced field (4.42064 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.20622 eV).
+	    Finished (0.822580 seconds).
+	- Updated reduced field (4.52396 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.22775 eV).
+	    Finished (0.842972 seconds).
+	- Updated reduced field (4.62969 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.24834 eV).
+	    Finished (0.924893 seconds).
+	- Updated reduced field (4.73789 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.26797 eV).
+	    Finished (0.851758 seconds).
+	- Updated reduced field (4.84863 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.28663 eV).
+	    Finished (0.849888 seconds).
+	- Updated reduced field (4.96195 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.30434 eV).
+	    Finished (0.890580 seconds).
+	- Updated reduced field (5.07792 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.32109 eV).
+	    Finished (0.864651 seconds).
+	- Updated reduced field (5.1966 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.33691 eV).
+	    Finished (0.884729 seconds).
+	- Updated reduced field (5.31805 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.35183 eV).
+	    Finished (0.857272 seconds).
+	- Updated reduced field (5.44234 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.36587 eV).
+	    Finished (1.131541 seconds).
+	- Updated reduced field (5.56954 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.37908 eV).
+	    Finished (0.349929 seconds).
+	- Updated reduced field (5.69971 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.39148 eV).
+	    Finished (0.440020 seconds).
+	- Updated reduced field (5.83292 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.40313 eV).
+	    Finished (0.359177 seconds).
+	- Updated reduced field (5.96925 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.41407 eV).
+	    Finished (0.347327 seconds).
+	- Updated reduced field (6.10876 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.42434 eV).
+	    Finished (0.361446 seconds).
+	- Updated reduced field (6.25153 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.43399 eV).
+	    Finished (0.339910 seconds).
+	- Updated reduced field (6.39764 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.44306 eV).
+	    Finished (0.336336 seconds).
+	- Updated reduced field (6.54717 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.4516 eV).
+	    Finished (0.336601 seconds).
+	- Updated reduced field (6.70019 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.45965 eV).
+	    Finished (0.357605 seconds).
+	- Updated reduced field (6.85678 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.46725 eV).
+	    Finished (0.368044 seconds).
+	- Updated reduced field (7.01704 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.4745 eV).
+	    Finished (0.401559 seconds).
+	- Updated reduced field (7.18104 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.48132 eV).
+	    Finished (0.332742 seconds).
+	- Updated reduced field (7.34887 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.4878 eV).
+	    Finished (0.338146 seconds).
+	- Updated reduced field (7.52063 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.49397 eV).
+	    Finished (0.332345 seconds).
+	- Updated reduced field (7.6964 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.49988 eV).
+	    Finished (0.334702 seconds).
+	- Updated reduced field (7.87628 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.50553 eV).
+	    Finished (0.333438 seconds).
+	- Updated reduced field (8.06036 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.51098 eV).
+	    Finished (0.324481 seconds).
+	- Updated reduced field (8.24875 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.51623 eV).
+	    Finished (0.320127 seconds).
+	- Updated reduced field (8.44153 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.52131 eV).
+	    Finished (0.320547 seconds).
+	- Updated reduced field (8.63883 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.52623 eV).
+	    Finished (0.413019 seconds).
+	- Updated reduced field (8.84073 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.53103 eV).
+	    Finished (0.328558 seconds).
+	- Updated reduced field (9.04736 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.53573 eV).
+	    Finished (0.336037 seconds).
+	- Updated reduced field (9.25881 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.54034 eV).
+	    Finished (0.322390 seconds).
+	- Updated reduced field (9.47521 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.54487 eV).
+	    Finished (0.328979 seconds).
+	- Updated reduced field (9.69666 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.54934 eV).
+	    Finished (0.330909 seconds).
+	- Updated reduced field (9.92329 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.55375 eV).
+	    Finished (0.348340 seconds).
+	- Updated reduced field (10.1552 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.55814 eV).
+	    Finished (0.351474 seconds).
+	- Updated reduced field (10.3926 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.56237 eV).
+	    Finished (0.390798 seconds).
+	- Updated reduced field (10.6354 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.56671 eV).
+	    Finished (0.333308 seconds).
+	- Updated reduced field (10.884 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.57104 eV).
+	    Finished (0.323617 seconds).
+	- Updated reduced field (11.1384 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.57538 eV).
+	    Finished (0.322940 seconds).
+	- Updated reduced field (11.3987 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.57973 eV).
+	    Finished (0.353052 seconds).
+	- Updated reduced field (11.6651 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.58409 eV).
+	    Finished (0.337533 seconds).
+	- Updated reduced field (11.9378 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.58848 eV).
+	    Finished (0.317508 seconds).
+	- Updated reduced field (12.2168 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.59301 eV).
+	    Finished (0.381222 seconds).
+	- Updated reduced field (12.5023 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.59748 eV).
+	    Finished (0.316653 seconds).
+	- Updated reduced field (12.7945 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.60199 eV).
+	    Finished (0.320163 seconds).
+	- Updated reduced field (13.0935 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.60655 eV).
+	    Finished (0.318921 seconds).
+	- Updated reduced field (13.3996 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.61116 eV).
+	    Finished (0.363764 seconds).
+	- Updated reduced field (13.7127 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.61583 eV).
+	    Finished (0.316970 seconds).
+	- Updated reduced field (14.0332 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.62056 eV).
+	    Finished (0.320216 seconds).
+	- Updated reduced field (14.3612 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.62529 eV).
+	    Finished (0.377203 seconds).
+	- Updated reduced field (14.6968 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.63016 eV).
+	    Finished (0.299290 seconds).
+	- Updated reduced field (15.0403 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.6351 eV).
+	    Finished (0.273142 seconds).
+	- Updated reduced field (15.3919 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.64012 eV).
+	    Finished (0.304910 seconds).
+	- Updated reduced field (15.7516 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.64523 eV).
+	    Finished (0.312150 seconds).
+	- Updated reduced field (16.1197 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.65041 eV).
+	    Finished (0.309559 seconds).
+	- Updated reduced field (16.4965 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.65566 eV).
+	    Finished (0.385567 seconds).
+	- Updated reduced field (16.882 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.66103 eV).
+	    Finished (0.321826 seconds).
+	- Updated reduced field (17.2766 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.66648 eV).
+	    Finished (0.317584 seconds).
+	- Updated reduced field (17.6804 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.67204 eV).
+	    Finished (0.324028 seconds).
+	- Updated reduced field (18.0936 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.67769 eV).
+	    Finished (0.326991 seconds).
+	- Updated reduced field (18.5165 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.68344 eV).
+	    Finished (0.331994 seconds).
+	- Updated reduced field (18.9492 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.68931 eV).
+	    Finished (0.435858 seconds).
+	- Updated reduced field (19.3921 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.69528 eV).
+	    Finished (0.401219 seconds).
+	- Updated reduced field (19.8454 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.70136 eV).
+	    Finished (0.309884 seconds).
+	- Updated reduced field (20.3092 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.70754 eV).
+	    Finished (0.309280 seconds).
+	- Updated reduced field (20.7838 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.71385 eV).
+	    Finished (0.329419 seconds).
+	- Updated reduced field (21.2696 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.72027 eV).
+	    Finished (0.357050 seconds).
+	- Updated reduced field (21.7667 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.72685 eV).
+	    Finished (0.384076 seconds).
+	- Updated reduced field (22.2754 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.73351 eV).
+	    Finished (0.312624 seconds).
+	- Updated reduced field (22.796 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.7403 eV).
+	    Finished (0.322692 seconds).
+	- Updated reduced field (23.3288 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.74721 eV).
+	    Finished (0.310766 seconds).
+	- Updated reduced field (23.8741 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.75425 eV).
+	    Finished (0.319743 seconds).
+	- Updated reduced field (24.432 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.76146 eV).
+	    Finished (0.379908 seconds).
+	- Updated reduced field (25.0031 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.76876 eV).
+	    Finished (0.320474 seconds).
+	- Updated reduced field (25.5874 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.7762 eV).
+	    Finished (0.322061 seconds).
+	- Updated reduced field (26.1855 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.78377 eV).
+	    Finished (0.326137 seconds).
+	- Updated reduced field (26.7975 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.79148 eV).
+	    Finished (0.318738 seconds).
+	- Updated reduced field (27.4238 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.79935 eV).
+	    Finished (0.414695 seconds).
+	- Updated reduced field (28.0647 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.80735 eV).
+	    Finished (0.325270 seconds).
+	- Updated reduced field (28.7206 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.81549 eV).
+	    Finished (0.361008 seconds).
+	- Updated reduced field (29.3919 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.82378 eV).
+	    Finished (0.370106 seconds).
+	- Updated reduced field (30.0788 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.83221 eV).
+	    Finished (0.383078 seconds).
+	- Updated reduced field (30.7818 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.8408 eV).
+	    Finished (0.326062 seconds).
+	- Updated reduced field (31.5012 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.84954 eV).
+	    Finished (0.323277 seconds).
+	- Updated reduced field (32.2375 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.85844 eV).
+	    Finished (0.334455 seconds).
+	- Updated reduced field (32.9909 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.86749 eV).
+	    Finished (0.322932 seconds).
+	- Updated reduced field (33.762 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.87647 eV).
+	    Finished (0.380992 seconds).
+	- Updated reduced field (34.5511 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.88583 eV).
+	    Finished (0.327199 seconds).
+	- Updated reduced field (35.3586 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.89535 eV).
+	    Finished (0.327567 seconds).
+	- Updated reduced field (36.185 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.90503 eV).
+	    Finished (0.312924 seconds).
+	- Updated reduced field (37.0307 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.91559 eV).
+	    Finished (0.392230 seconds).
+	- Updated reduced field (37.8962 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.92561 eV).
+	    Finished (0.327377 seconds).
+	- Updated reduced field (38.7819 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.9358 eV).
+	    Finished (0.311855 seconds).
+	- Updated reduced field (39.6883 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.94616 eV).
+	    Finished (0.313381 seconds).
+	- Updated reduced field (40.6159 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.95605 eV).
+	    Finished (0.420295 seconds).
+	- Updated reduced field (41.5651 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.96675 eV).
+	    Finished (0.302017 seconds).
+	- Updated reduced field (42.5366 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.97761 eV).
+	    Finished (0.311499 seconds).
+	- Updated reduced field (43.5307 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.98864 eV).
+	    Finished (0.300177 seconds).
+	- Updated reduced field (44.5481 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (3.99981 eV).
+	    Finished (0.370024 seconds).
+	- Updated reduced field (45.5893 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.01118 eV).
+	    Finished (0.370964 seconds).
+	- Updated reduced field (46.6548 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.02272 eV).
+	    Finished (0.358559 seconds).
+	- Updated reduced field (47.7452 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.03444 eV).
+	    Finished (0.383698 seconds).
+	- Updated reduced field (48.8611 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.04624 eV).
+	    Finished (0.399240 seconds).
+	- Updated reduced field (50.0031 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.05831 eV).
+	    Finished (0.324224 seconds).
+	- Updated reduced field (51.1717 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.07057 eV).
+	    Finished (0.317196 seconds).
+	- Updated reduced field (52.3677 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.083 eV).
+	    Finished (0.325149 seconds).
+	- Updated reduced field (53.5916 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.09665 eV).
+	    Finished (0.407681 seconds).
+	- Updated reduced field (54.8442 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.10946 eV).
+	    Finished (0.317425 seconds).
+	- Updated reduced field (56.126 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.12246 eV).
+	    Finished (0.331175 seconds).
+	- Updated reduced field (57.4377 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.13566 eV).
+	    Finished (0.406409 seconds).
+	- Updated reduced field (58.7802 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.149 eV).
+	    Finished (0.345433 seconds).
+	- Updated reduced field (60.154 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.16253 eV).
+	    Finished (0.323250 seconds).
+	- Updated reduced field (61.5599 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.17625 eV).
+	    Finished (0.335332 seconds).
+	- Updated reduced field (62.9986 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.18945 eV).
+	    Finished (0.364526 seconds).
+	- Updated reduced field (64.471 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.20352 eV).
+	    Finished (0.319660 seconds).
+	- Updated reduced field (65.9778 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.21777 eV).
+	    Finished (0.327163 seconds).
+	- Updated reduced field (67.5198 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.23081 eV).
+	    Finished (0.437385 seconds).
+	- Updated reduced field (69.0979 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.24542 eV).
+	    Finished (0.359289 seconds).
+	- Updated reduced field (70.7128 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.26021 eV).
+	    Finished (0.342800 seconds).
+	- Updated reduced field (72.3655 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.27729 eV).
+	    Finished (0.380259 seconds).
+	- Updated reduced field (74.0568 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.29249 eV).
+	    Finished (0.327861 seconds).
+	- Updated reduced field (75.7877 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.30789 eV).
+	    Finished (0.324632 seconds).
+	- Updated reduced field (77.559 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.32347 eV).
+	    Finished (0.345234 seconds).
+	- Updated reduced field (79.3717 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.33852 eV).
+	    Finished (0.372030 seconds).
+	- Updated reduced field (81.2267 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.35451 eV).
+	    Finished (0.319841 seconds).
+	- Updated reduced field (83.1251 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.3707 eV).
+	    Finished (0.334185 seconds).
+	- Updated reduced field (85.0679 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.38645 eV).
+	    Finished (0.390413 seconds).
+	- Updated reduced field (87.0561 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.40302 eV).
+	    Finished (0.304499 seconds).
+	- Updated reduced field (89.0908 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.4198 eV).
+	    Finished (0.318543 seconds).
+	- Updated reduced field (91.173 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.43804 eV).
+	    Finished (0.378907 seconds).
+	- Updated reduced field (93.3039 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.45524 eV).
+	    Finished (0.375519 seconds).
+	- Updated reduced field (95.4846 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.47335 eV).
+	    Finished (0.397211 seconds).
+	- Updated reduced field (97.7162 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.49101 eV).
+	    Finished (0.356815 seconds).
+	- Updated reduced field (100 Td).
+	- Solving Boltzmann ...
+	- Updated electron temperature (4.50889 eV).
+	    Finished (0.317882 seconds).
+  Finished (157.259918 seconds).

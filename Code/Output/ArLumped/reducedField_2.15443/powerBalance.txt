@@ -1,9 +1,9 @@
-                               Field = +7.86354769164243e-18 (eVm^3s^-1)
-           Elastic collisions (gain) = +1.30204395493393e-19 (eVm^3s^-1)
-           Elastic collisions (loss) = -7.99370765483861e-18 (eVm^3s^-1)
+                               Field = +7.75045389039346e-18 (eVm^3s^-1)
+           Elastic collisions (gain) = +1.32600494314653e-19 (eVm^3s^-1)
+           Elastic collisions (loss) = -7.88304593046092e-18 (eVm^3s^-1)
                           CAR (gain) = +0.00000000000000e+00 (eVm^3s^-1)
                           CAR (loss) = +0.00000000000000e+00 (eVm^3s^-1)
-     Excitation inelastic collisions = -4.44323063983618e-23 (eVm^3s^-1)
+     Excitation inelastic collisions = -8.45424459940305e-24 (eVm^3s^-1)
   Excitation superelastic collisions = +0.00000000000000e+00 (eVm^3s^-1)
     Vibrational inelastic collisions = +0.00000000000000e+00 (eVm^3s^-1)
  Vibrational superelastic collisions = +0.00000000000000e+00 (eVm^3s^-1)
@@ -13,23 +13,23 @@
                Attachment collisions = +0.00000000000000e+00 (eVm^3s^-1)
              Electron density growth = +0.00000000000000e+00 (eVm^3s^-1) +
  -------------------------------------------------------------------------
-                       Power Balance = -9.18623726020537e-30 (eVm^3s^-1)
-              Relative Power Balance =  1.14917715236486e-10%
+                       Power Balance = +2.59253946797946e-30 (eVm^3s^-1)
+              Relative Power Balance =  3.28874994571720e-11%
 
-           Elastic collisions (gain) = +1.30204395493393e-19 (eVm^3s^-1)
-           Elastic collisions (loss) = -7.99370765483861e-18 (eVm^3s^-1) +
+           Elastic collisions (gain) = +1.32600494314653e-19 (eVm^3s^-1)
+           Elastic collisions (loss) = -7.88304593046092e-18 (eVm^3s^-1) +
  -------------------------------------------------------------------------
-            Elastic collisions (net) = -7.86350325934522e-18 (eVm^3s^-1)
+            Elastic collisions (net) = -7.75044543614627e-18 (eVm^3s^-1)
 
                           CAR (gain) = +0.00000000000000e+00 (eVm^3s^-1)
                           CAR (gain) = +0.00000000000000e+00 (eVm^3s^-1) +
  -------------------------------------------------------------------------
                            CAR (net) = +0.00000000000000e+00 (eVm^3s^-1)
 
-     Excitation inelastic collisions = -4.44323063983618e-23 (eVm^3s^-1)
+     Excitation inelastic collisions = -8.45424459940305e-24 (eVm^3s^-1)
   Excitation superelastic collisions = +0.00000000000000e+00 (eVm^3s^-1) +
  -------------------------------------------------------------------------
-         Excitation collisions (net) = -4.44323063983618e-23 (eVm^3s^-1)
+         Excitation collisions (net) = -8.45424459940305e-24 (eVm^3s^-1)
 
     Vibrational inelastic collisions = +0.00000000000000e+00 (eVm^3s^-1)
  Vibrational superelastic collisions = +0.00000000000000e+00 (eVm^3s^-1) +
@@ -43,10 +43,10 @@
 
 ************************************* Ar *************************************
 
-     Excitation inelastic collisions = -4.44323063983618e-23 (eVm^3s^-1)
+     Excitation inelastic collisions = -8.45424459940305e-24 (eVm^3s^-1)
   Excitation superelastic collisions = +0.00000000000000e+00 (eVm^3s^-1) +
  -------------------------------------------------------------------------
-         Excitation collisions (net) = -4.44323063983618e-23 (eVm^3s^-1)
+         Excitation collisions (net) = -8.45424459940305e-24 (eVm^3s^-1)
 
     Vibrational inelastic collisions = +0.00000000000000e+00 (eVm^3s^-1)
  Vibrational superelastic collisions = +0.00000000000000e+00 (eVm^3s^-1) +

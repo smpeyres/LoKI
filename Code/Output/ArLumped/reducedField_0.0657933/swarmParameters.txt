@@ -7,5 +7,5 @@
  Reduced energy diffusion coefficient = 1.42223546332391e+25 (eV(ms)^-1)
               Reduced energy mobility = 2.15642486472648e+25 (eV(msV)^-1)
                           Mean energy = 6.45344591282265e-01 (eV)
-                Characteristic energy = 1.30285658756303e+00 (eV)
+                Characteristic energy = 1.30285658756304e+00 (eV)
                  Electron temperature = 4.30229727521510e-01 (eV)

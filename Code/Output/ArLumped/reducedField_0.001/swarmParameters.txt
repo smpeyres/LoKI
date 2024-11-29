@@ -4,7 +4,7 @@
                        Drift velocity = 1.36559064165060e+02 (ms^-1)
          Reduced Townsend coefficient = 0.00000000000000e+00 (m^2)
        Reduced attachment coefficient = 0.00000000000000e+00 (m^2)
- Reduced energy diffusion coefficient = 8.22177116961145e+23 (eV(ms)^-1)
+ Reduced energy diffusion coefficient = 8.22177116961146e+23 (eV(ms)^-1)
               Reduced energy mobility = 1.65474176576648e+25 (eV(msV)^-1)
                           Mean energy = 4.56877828447552e-02 (eV)
                 Characteristic energy = 3.98311473490245e-02 (eV)

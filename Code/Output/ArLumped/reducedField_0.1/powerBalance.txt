@@ -1,5 +1,5 @@
-                               Field = +1.65015004262632e-19 (eVm^3s^-1)
-           Elastic collisions (gain) = +1.32388503905478e-20 (eVm^3s^-1)
+                               Field = +1.65015004262631e-19 (eVm^3s^-1)
+           Elastic collisions (gain) = +1.32388503905479e-20 (eVm^3s^-1)
            Elastic collisions (loss) = -1.78253854653387e-19 (eVm^3s^-1)
                           CAR (gain) = +0.00000000000000e+00 (eVm^3s^-1)
                           CAR (loss) = +0.00000000000000e+00 (eVm^3s^-1)
@@ -13,10 +13,10 @@
                Attachment collisions = +0.00000000000000e+00 (eVm^3s^-1)
              Electron density growth = +0.00000000000000e+00 (eVm^3s^-1) +
  -------------------------------------------------------------------------
-                       Power Balance = -2.07013394897323e-31 (eVm^3s^-1)
-              Relative Power Balance =  1.16134035530452e-10%
+                       Power Balance = -2.08000433993821e-31 (eVm^3s^-1)
+              Relative Power Balance =  1.16687762179684e-10%
 
-           Elastic collisions (gain) = +1.32388503905478e-20 (eVm^3s^-1)
+           Elastic collisions (gain) = +1.32388503905479e-20 (eVm^3s^-1)
            Elastic collisions (loss) = -1.78253854653387e-19 (eVm^3s^-1) +
  -------------------------------------------------------------------------
             Elastic collisions (net) = -1.65015004262839e-19 (eVm^3s^-1)

@@ -30,6 +30,7 @@ electronKinetics:
   stateProperties:                     
     population:
       - Ar(1S0) = 1.0
+      - Ar(met) = 0.0
   numerics:                            
     energyGrid:                        
       maxEnergy: 1                     

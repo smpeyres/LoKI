@@ -1,5 +1,5 @@
                Reduced electric field = 1.51991108295293e-03 (Td)
-        Reduced diffusion coefficient = 9.74684616683272e+24 ((ms)^-1)
+        Reduced diffusion coefficient = 9.74684616683271e+24 ((ms)^-1)
                      Reduced mobility = 1.53848466101413e+26 ((msV)^-1)
                        Drift velocity = 2.33835988722847e+02 (ms^-1)
          Reduced Townsend coefficient = 0.00000000000000e+00 (m^2)
